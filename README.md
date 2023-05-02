@@ -14,3 +14,4 @@ Qualitatative and quantitative researcher
 
 ### Projects
 -Usability testing
+-Card sorting
