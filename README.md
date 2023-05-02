@@ -9,9 +9,9 @@ Bc, Social science
 
 ### Work Experinces
 Qualitatative and quantitative researcher
--Simon Fraser University
--SurgAccord
+- Simon Fraser University
+- SurgAccord
 
 ### Projects
--Usability testing
--Card sorting
+- Usability testing
+- Card sorting
