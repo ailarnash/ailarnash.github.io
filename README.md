@@ -3,9 +3,19 @@ ailarnash.github.io/portfolio
 # User experince researcher
 
 ### Education
-Ph.D. student in Educational Pyschology
-Master of Arts - MA, Psychology
-Bachelor of Arts - BA Social science
+- Ph.D.	Simon Fraser University, Vancouver, Canada	 2020 - Present
+Educational Psychology
+	Focus:  Online learning, user engagement, gamification
+GPA: 3.91/4
+
+- M.A.	Azad University of Kerman, Kerman, Iran	 2013 – 2015
+	Psychology
+	Focus:  Learning style, student engagement
+GPA: 17.81/20 (Rank: 1/20)
+
+- B.A.	Azad University of Kerman, Kerman, Iran	2009 – 2012
+	Social Science
+	GPA: 17.08/20 (Rank: 1/80)
 
 ### Work Experinces
 UX Researcher, SurgAccord 2021-Present
@@ -38,8 +48,5 @@ Teaching Assistant, Simon Fraser University, Department of Education 	2021-Prese
 - Introduction to Educational Psychology
 - Research Methodology (quantitative and qualitative research)
 Sessional Instructor	2015-Present
-•	Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Research Methodology (quantitative and qualitative)
+-	Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Research Methodology (quantitative and qualitative)
 
-### Projects
-- Usability testing
-- Card sorting
