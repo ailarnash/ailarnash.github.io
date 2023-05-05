@@ -2,6 +2,16 @@
 ailarnash.github.io/portfolio
 # User experince researcher
 
+### Bio
+
+### About
+As I write this, I am knee-deep in the third year of my doctoral program in Educational Psychology at Simon Fraser University, Vancouver. But let me backtrack a bit. Before embarking on this academic journey, I obtained a Bachelor's degree in Social Sciences, followed by a Master's degree in Psychology. I have dabbled in various disciplines, from social sciences to statistics, from research methods to psychology. My insatiable curiosity and passion for learning have driven me to explore diverse domains of knowledge.
+
+Presently, my primary research interest lies in the field of user experience research. I am passionate about exploring ways to understand and enhance user engagement, as I believe it is a critical component of creating successful digital products and services. Through my work, I aim to identify the factors that influence user engagement, such as usability, user interface design, and content strategy, among others. I am excited to connect with you to discuss your organization's goals and interests in this area. Together, we can collaborate to develop innovative solutions that elevate the user experience and drive the success of your products or services.
+
+
+
+
 
 ### Profile
 - Research: experimental design, qualitative & quantitative methodologies (A/B testing, usability testing, card sorting), surveys, structured & semi-structured interviews, online assessment, storytelling, written reports
