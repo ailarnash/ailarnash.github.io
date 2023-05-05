@@ -2,20 +2,13 @@
 ailarnash.github.io/portfolio
 # User experince researcher
 
-### Education
-- Ph.D.	Simon Fraser University, Vancouver, Canada	 2020 - Present
-Educational Psychology
-	Focus:  Online learning, user engagement, gamification
-GPA: 3.91/4
 
-- M.A.	Azad University of Kerman, Kerman, Iran	 2013 – 2015
-	Psychology
-	Focus:  Learning style, student engagement
-GPA: 17.81/20 (Rank: 1/20)
+### Profile
+- Research: experimental design, qualitative & quantitative methodologies (A/B testing, usability testing, card sorting), surveys, structured & semi-structured interviews, online assessment, storytelling, written reports
 
-- B.A.	Azad University of Kerman, Kerman, Iran	2009 – 2012
-	Social Science
-	GPA: 17.08/20 (Rank: 1/80)
+- Statistics: exploratory data analysis (summary statistics, visualization, exploratory factor analysis), inferential data analysis (t-tests, chi-square, ANOVA, linear & logistic regression, structural equation modeling, hierarchical linear modeling), qualitative data coding and analysis (content analysis, narrative analysis)
+
+- Software: SPSS, R, Python, NVivo, Figma, Amazon Mechanical Turk, Microsoft Office Suite
 
 ### Work Experinces
 UX Researcher, SurgAccord 2021-Present
@@ -49,4 +42,26 @@ Teaching Assistant, Simon Fraser University, Department of Education 	2021-Prese
 - Research Methodology (quantitative and qualitative research)
 Sessional Instructor	2015-Present
 -	Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Research Methodology (quantitative and qualitative)
+
+### Education
+- Ph.D.	Simon Fraser University, Vancouver, Canada	 2020 - Present
+Educational Psychology
+	Focus:  Online learning, user engagement, gamification
+GPA: 3.91/4
+
+- M.A.	Azad University of Kerman, Kerman, Iran	 2013 – 2015
+	Psychology
+	Focus:  Learning style, student engagement
+GPA: 17.81/20 (Rank: 1/20)
+
+- B.A.	Azad University of Kerman, Kerman, Iran	2009 – 2012
+	Social Science
+	GPA: 17.08/20 (Rank: 1/80)
+
+### Languages
+- English: Fluent
+- French: Fluent
+- Farsi: Native
+- Turkish: Elementary
+- Arabic: Elementary
 
