@@ -51,12 +51,12 @@ Educational Psychology
 	Focus:  Online learning, user engagement, gamification
 GPA: 3.91/4
 
-- M.A.	Azad University of Kerman, Kerman, Iran	 2013 – 2015
+- M.A.	University of Kerman, Kerman, Iran	 2013 – 2015
 	Psychology
 	Focus:  Learning style, student engagement
 GPA: 17.81/20 (Rank: 1/20)
 
-- B.A.	Azad University of Kerman, Kerman, Iran	2009 – 2012
+- B.A.	University of Kerman, Kerman, Iran	2009 – 2012
 	Social Science
 	GPA: 17.08/20 (Rank: 1/80)
 
