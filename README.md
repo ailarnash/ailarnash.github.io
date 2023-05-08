@@ -1,3 +1,5 @@
+#logo:/assets/img/headshot_circle.png
+#description: text below image
 # ailarnash.github.io
 ailarnash.github.io/portfolio
 # User Experince Researcher
