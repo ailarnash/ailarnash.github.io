@@ -6,7 +6,7 @@ ailarnash.github.io/portfolio
 
 <!-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg) -->
 
-![My Profile Picture](IMG_2731.JPG)
+![My Profile Picture](IMG_2371.JPG)
 
 
 ### About
