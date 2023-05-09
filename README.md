@@ -19,8 +19,8 @@ User Experince Researcher, SurgAccord 2021-Present
 - Optimized designs to increase data quality by 22% and decrease user errors by up to 80%
 - Recruited thousands of participants using targeted advertisements, online networks, email lists, and snowballing techniques to match sample representativeness with target population
 
-Graduate Research Assistant, Simon Fraser University, Vancouver, BC	 2020-Present
-- Understanding users’ behaviors and needs through the lens of self-determination theory
+Graduate Research Assistant, Simon Fraser University, Vancouver, BC 2020-Present
+- Understanding users’ behaviors and needs through the lens of self-determination theory (SDT)
 - Use gamification to increase learners’ engagement
 - Creative interactive and engaging content
 
@@ -45,7 +45,7 @@ Teaching Assistant, Simon Fraser University, Department of Education and Psychol
 - Research Methodology (quantitative and qualitative research)
 
 Sessional Instructor 2013-Present
-- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Market Research, Consumer Behaviour, Dats snd Marketing Analytics, Behavioral Economics, Human-Computer Interaction (HCI), User Experience Design, Data Visualization
+- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Market Research, Consumer Behaviour, Data snd Marketing Analytics, Behavioral Economics, Introduction to Human-Computer Interaction (HCI), User Experience Design, Data Visualization, Psychology of User Experience, Usability Testing and User-Centered Design, Ethics in User Experience Research and Design
 
 ### Education
 - Ph.D.	Simon Fraser University, Vancouver, Canada 2020 - Present
