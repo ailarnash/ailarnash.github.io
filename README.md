@@ -1,5 +1,3 @@
-#logo:/IMG_2371.JPG
-#description: text below image
 # ailarnash.github.io
 ailarnash.github.io/portfolio
 # User Experince Researcher
