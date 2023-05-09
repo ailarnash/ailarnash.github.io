@@ -4,6 +4,8 @@
 ailarnash.github.io/portfolio
 # User Experince Researcher
 
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 ### About
 As an experienced user researcher with over five years in the field, I possess a refined skill set in planning, designing, facilitating, and synthesizing user research studies. My collaboration with diverse, multidisciplinary teams has allowed me to develop a deep understanding of user behavior and preferences. I leverage this knowledge to provide valuable insights and actionable recommendations that enable teams to create more effective and user-friendly products. My primary research interest centers on user experience research, as I believe that enhancing user engagement is critical to the success of digital products and services. I am dedicated to exploring innovative ways to identify the factors that influence user engagement, such as usability, user interface design, and content strategy. By partnering with your organization, we can work together to develop creative solutions that elevate the user experience and drive the success of your products or services. I am excited to connect with you to discuss your goals and interests in this area.
 
