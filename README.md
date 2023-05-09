@@ -1,4 +1,4 @@
-#logo:/assets/img/headshot_circle.png
+#logo:IMG_2371.JPG
 #description: text below image
 # ailarnash.github.io
 ailarnash.github.io/portfolio
@@ -6,7 +6,7 @@ ailarnash.github.io/portfolio
 
 <!-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg) -->
 
-![My Profile Picture](IMG_2371.JPG)
+<!-- ![My Profile Picture](IMG_2371.JPG) -->
 
 
 ### About
