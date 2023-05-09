@@ -44,8 +44,8 @@ Teaching Assistant, Simon Fraser University, Department of Education and Psychol
 - Introduction to Educational Psychology
 - Research Methodology (quantitative and qualitative research)
 
-Sessional Instructor 2015-Present
-- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Marker Research, Consumer Behaviour, Dats snd Marketing Analytics, Behavioral Economics, 
+Sessional Instructor 2013-Present
+- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Market Research, Consumer Behaviour, Dats snd Marketing Analytics, Behavioral Economics, Human-Computer Interaction (HCI), User Experience Design, Data Visualization
 
 ### Education
 - Ph.D.	Simon Fraser University, Vancouver, Canada 2020 - Present
@@ -53,12 +53,12 @@ Educational Psychology
 	Focus:  Online learning, user engagement, gamification
 GPA: 3.91/4
 
-- M.A.	University of Kerman, Kerman, Iran	 2013 – 2015
+- M.A.	University of Kerman, Kerman, Iran 2013 – 2015
 	Psychology
-	Focus:  Learning style, student engagement
+	Focus:  Learning style, Learner engagement
 GPA: 17.81/20 (Rank: 1/20)
 
-- B.A.	University of Kerman, Kerman, Iran	2009 – 2012
+- B.A.	University of Kerman, Kerman, Iran 2009 – 2012
 	Social Science
 	GPA: 17.08/20 (Rank: 1/80)
 
