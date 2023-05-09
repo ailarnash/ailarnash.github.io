@@ -40,12 +40,12 @@ User Experince Researcher, McGill University, Montreal, QC 2017–2018
 - Supervised development and execution of research projects, data analysis plans, and research reports for 25-50 students per semester. Established deadlines to evaluate progress, provide edits, and collaboratively work through hurdles, ensuring timely submission of deliverables
 
 ### Teaching Experinces
-Teaching Assistant, Simon Fraser University, Department of Education 2021-Present
+Teaching Assistant, Simon Fraser University, Department of Education and Psychology 2021-Present
 - Introduction to Educational Psychology
 - Research Methodology (quantitative and qualitative research)
 
 Sessional Instructor 2015-Present
-- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Research Methodology (quantitative and qualitative)
+- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Marker Research, Consumer Behaviour, Dats snd Marketing Analytics, Behavioral Economics, 
 
 ### Education
 - Ph.D.	Simon Fraser University, Vancouver, Canada 2020 - Present
