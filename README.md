@@ -61,4 +61,17 @@ GPA: 17.81/20 (Rank: 1/20)
 - B.A.	University of Kerman, Kerman, Iran 2009 – 2012
 	Social Science
 	GPA: 17.08/20 (Rank: 1/80)
+	
+	
+	
+As a UX researcher, I have had the opportunity to work on several research projects that have helped me develop a range of research approaches, methodologies, and results. 
+Below are some detailed case studies that showcase my research process and the outcomes that resulted from each project.
+
+1. Canvas Learneing Managment System Website Study
+In response to our client's request to enhance the website's navigation system, we employed a mixed-methods approach to gather data and insights that would inform the improvement process. We initiated the study by administering an online survey to collect quantitative data on the browsing habits and preferences of users. Subsequently, we conducted a series of one-on-one interviews with selected participants to gain deeper qualitative insights on their opinions about the current navigation system. Finally, we employed a remote usability testing tool to monitor and evaluate the real-time interaction of users with the website's navigation system. Our comprehensive research revealed that users encountered difficulties in using the Canvas learning management system, finding it complicated and confusing. Additionally, users preferred a more straightforward and intuitive system that would facilitate quick and easy access to information without having to navigate through multiple pages. Based on these findings, we recommended a simplification of Canvas's features and a restructuring of the system to align more closely with users' browsing habits and preferences, thereby enhancing user engagement and usability.
+
+2, Canvas Mobile Application User Experience Study
+The aim of this study was to enhance the user experience of a mobile application to augment user engagement. A qualitative research approach was employed to obtain insights into the experience of using the app. In-person interviews were conducted with users to gain a comprehensive understanding of their experience. Furthermore, a competitive analysis was performed to identify best practices that could be applied to the app. Our research findings demonstrated that users found the app interface to be cluttered and overwhelming, which led to difficulties in navigation and finding relevant information. To address these issues, we recommended simplifying the app interface, enhancing specific features, and reducing the amount of clutter present in the app.
+	
+	
 
