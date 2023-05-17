@@ -1,80 +1,31 @@
-# ailarnash.github.io
-ailarnash.github.io/portfolio
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
-# User Experince Researcher
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-### About
-As an experienced user researcher with over five years in the field, I possess a refined skill set in planning, designing, facilitating, and synthesizing user research studies. My collaboration with diverse, multidisciplinary teams has allowed me to develop a deep understanding of user behavior and preferences. I leverage this knowledge to provide valuable insights and actionable recommendations that enable teams to create more effective and user-friendly products. My primary research interest centers on user experience research, as I believe that enhancing user engagement is critical to the success of digital products and services. I am dedicated to exploring innovative ways to identify the factors that influence user engagement, such as usability, user interface design, and content strategy. By partnering with your organization, we can work together to develop creative solutions that elevate the user experience and drive the success of your products or services. I am excited to connect with you to discuss your goals and interests in this area.
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-### Profile
-- Research: experimental design, qualitative & quantitative methodologies (A/B testing, usability testing, card sorting), surveys, structured & semi-structured interviews, online assessment, storytelling, written reports
+# Instructions
 
-- Statistics: exploratory data analysis (summary statistics, visualization, exploratory factor analysis), inferential data analysis (t-tests, chi-square, ANOVA, linear & logistic regression, structural equation modeling, hierarchical linear modeling), qualitative data coding and analysis (content analysis, narrative analysis)
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-- Software: SPSS, R, Python, NVivo, Figma, Amazon Mechanical Turk, Microsoft Office Suite
+See more info at https://academicpages.github.io/
 
-### Work Experinces
-User Experince Researcher, SurgAccord 2021-Present
-- Qualitatively analyzed user experiences to identify research design bugs and assess functionality
-- Optimized designs to increase data quality by 22% and decrease user errors by up to 80%
-- Recruited thousands of participants using targeted advertisements, online networks, email lists, and snowballing techniques to match sample representativeness with target population
+## To run locally (not on GitHub Pages, to serve on your own computer)
 
-Graduate Research Assistant, Simon Fraser University, Vancouver, BC 2020-Present
-- Understanding users’ behaviors and needs through the lens of self-determination theory (SDT)
-- Use gamification to increase learners’ engagement
-- Creative interactive and engaging content
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-Educational Psychologist, Abby’s Office (Counselling Center) 2020-Present
-- Autism Educator
-- Monitor students’ progress, observe and study the behavioral patterns in children and teenagers with autism
-- Implementing behavioral plans designed to reduce disruptive classroom behavior
+# Changelog -- bugfixes and enhancements
 
-User Experince Researcher, University of Montreal, Montreal, QC 2018–2020
-- Used A/B testing to develop and validate a new research method allowing researchers to cut collection time by 97% and cuts costs by 83%, while increasing sample representativeness
-- Conducted usability testing, card sorting, and tree testing to enhance user-friendliness of online classroom features and tools by 72-90%
-- Used one-one-one interviews, focus groups, and surveys to assess progress and student satisfaction, increasing grades by 7-15% and decreasing complaints
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-User Experince Researcher, McGill University, Montreal, QC 2017–2018
-- Facilitated collaborative grant submissions ranging from $500 - $120,000 and coordinated resulting cross-functional team projects to meet tight deadlines
-- Utilized storytelling to clearly present complex concepts and findings to stakeholders ranging in age (14- to 65+-years-old), skill-level (novice to expert), and fields (academic, industry, and laypersons)
-- Supervised development and execution of research projects, data analysis plans, and research reports for 25-50 students per semester. Established deadlines to evaluate progress, provide edits, and collaboratively work through hurdles, ensuring timely submission of deliverables
-
-### Teaching Experinces
-Teaching Assistant, Simon Fraser University, Department of Education and Psychology 2021-Present
-- Introduction to Educational Psychology
-- Research Methodology (quantitative and qualitative research)
-
-Sessional Instructor 2013-Present
-- Statistics, Experimental, Cognitive and Abnormal Psychology, Sustainable and Environmental Research, Market Research, Consumer Behaviour, Data snd Marketing Analytics, Behavioral Economics, Introduction to Human-Computer Interaction (HCI), User Experience Design, Data Visualization, Psychology of User Experience, Usability Testing and User-Centered Design, Ethics in User Experience Research and Design
-
-### Education
-- Ph.D.	Simon Fraser University, Vancouver, Canada 2020 - Present
-Educational Psychology
-	Focus:  Online learning, user engagement, gamification
-GPA: 3.91/4
-
-- M.A.	University of Kerman, Kerman, Iran 2013 – 2015
-	Psychology
-	Focus:  Learning style, Learner engagement
-GPA: 17.81/20 (Rank: 1/20)
-
-- B.A.	University of Kerman, Kerman, Iran 2009 – 2012
-	Social Science
-	GPA: 17.08/20 (Rank: 1/80)
-	
-	
-### Current Projects	
-- As a User Experience (UX) researcher, my current focus revolves around comprehending the distinctive features of Canvas, a digital platform. My main objective is to identify the features that are most favored by users and the ones that are least favored. By obtaining this information, we can apply the principles of the self-determination theory and nudge theory to improve user engagement and satisfaction. By leveraging these theories, we aim to enhance the users' experience and facilitate them in their pursuit of meaningful interactions with the platform. Ultimately, this will increase the platform's engagement and satisfaction levels.
-
-- Canvas Learneing Managment System Study
-In response to our client's request to enhance the website's navigation system, we employed a mixed-methods approach to gather data and insights that would inform the improvement process. We initiated the study by administering an online survey to collect quantitative data on the browsing habits and preferences of users. Subsequently, we conducted a series of one-on-one interviews with selected participants to gain deeper qualitative insights on their opinions about the current navigation system. Finally, we employed a remote usability testing tool to monitor and evaluate the real-time interaction of users with the website's navigation system. Our comprehensive research revealed that users encountered difficulties in using the Canvas learning management system, finding it complicated and confusing. Additionally, users preferred a more straightforward and intuitive system that would facilitate quick and easy access to information without having to navigate through multiple pages. Based on these findings, we recommended a simplification of Canvas's features and a restructuring of the system to align more closely with users' browsing habits and preferences, thereby enhancing user engagement and usability.
-
-- Canvas Mobile Application User Experience Study
-The aim of this study was to enhance the user experience of a mobile application to augment user engagement. A qualitative research approach was employed to obtain insights into the experience of using the app. In-person interviews were conducted with users to gain a comprehensive understanding of their experience. Furthermore, a competitive analysis was performed to identify best practices that could be applied to the app. Our research findings demonstrated that users found the app interface to be cluttered and overwhelming, which led to difficulties in navigation and finding relevant information. To address these issues, we recommended simplifying the app interface, enhancing specific features, and reducing the amount of clutter present in the app.
-
-### Previous Projects
-As a UX researcher, I have had the opportunity to work on several research projects that have helped me develop a range of research approaches, methodologies, and results. Below are some detailed case studies that showcase my research process and the outcomes that resulted from each project.
-
-- Identifying Key Drivers of Customer Loyalty for a Retail Store
-We aimed to identify the key drivers of customer loyalty for a retail store in order to develop effective marketing campaigns. To achieve this goal, a mixed-methods research design was employed. Firstly, a customer loyalty survey was conducted with a sample of 1,000 customers to identify the factors influencing their loyalty to the store. Secondly, a series of in-depth interviews were carried out with loyal customers to gain deeper insights into their experiences with the store. Thirdly, a statistical analysis was performed to identify the main drivers of customer loyalty. Finally, a competitive analysis was conducted to compare the strengths and weaknesses of the store with its competitors. The findings revealed that the quality of customer service and the store's product selection were the key factors that influenced customer loyalty. The research team recommended that the store should provide training to employees to enhance their responsiveness to customer needs and expand its product range to better meet customer requirements. As a result of implementing these recommendations, the store's customer loyalty rate increased by 25% and sales increased by 12%. These results suggest that the adoption of the recommended strategies could enhance customer loyalty and improve the financial performance of the store.
-
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
